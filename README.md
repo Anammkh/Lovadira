@@ -10,17 +10,33 @@ A simple Python library to generate random quotes from Gus Baha.
 You can install this library using `pip`:
 
 ```bash
-pip install lovdira```
+pip install lovdira
 
-# Usage 
+```
+Alternatively, to install it manually, run the following commands:
+
 ```bash
 git clone https://github.com/Anammkh/Lovadira.git
 cd Lovadira
-python setup.py install```
+python setup.py install
 
-Untuk menggunakan library ini, cukup impor fungsi generate_quote dari modul generator. Berikut adalah contoh penggunaannya:
+```
+## Usage
 
-```python
+To use this library, simply import the generate_quote function from the generator module. Here’s an example:
+
+```bash
 from lovadira.generator import generate_quote
+
 quote = generate_quote()
 print(quote)
+```
+
+Each time you run generate_quote(), you will get a different random quote from Gus Baha.
+
+## Contributing
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with improvements or new features.
+
+
+
+

@@ -14,7 +14,7 @@ setup(
     classifiers=[  # Klasifikasi untuk mendeskripsikan tipe proyek Anda
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
-        "Operating System :: Linux",
+        "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',  # Versi Python yang diperlukan
 )

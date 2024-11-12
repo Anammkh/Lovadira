@@ -10,7 +10,7 @@ A simple Python library to generate random quotes from Gus Baha.
 You can install this library using `pip`:
 
 ```bash
-pip install lovdira
+pip install lovadira
 
 ```
 Alternatively, to install it manually, run the following commands:
